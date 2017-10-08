@@ -17,7 +17,8 @@
   },
   "homepage": "https://github.com/aaronrohrbacher/ping-pong-js#readme",
   "devDependencies": {
-    "gulp": "^3.9.1"
+    "gulp": "^3.9.1",
+    "vinyl-source-stream": "^1.1.0"
   },
   "dependencies": {
     "browserify": "^14.4.0"
