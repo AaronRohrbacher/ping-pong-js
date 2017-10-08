@@ -1,5 +1,5 @@
 function Calculator(skinName) {
-  this.skin = skinName
+  this.skin = skinName;
 }
 
 Calculator.prototype.pingPong = function(goal) {
@@ -16,6 +16,6 @@ Calculator.prototype.pingPong = function(goal) {
     }
   }
   return output;
-}
+};
 
 exports.calculatorModule = Calculator;
